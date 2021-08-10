@@ -1,0 +1,13 @@
+{
+    "prefix" : "?",
+    "token" : "",
+    "mongoose" : "mongo_db_url",
+    "emoji" : {
+        "play" : "▶️",
+        "stop" : "⏹️",
+        "queue" : "📜",
+        "success" : "✔️",
+        "repeat" : "🔁",
+        "error" : "❌"
+    }
+}
